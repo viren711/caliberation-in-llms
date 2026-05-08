@@ -1,0 +1,701 @@
+question,style,btl_rank,btl_strength,btl_beta,answer,result
+Who had an 80s No 1 hit with Hold On To The Nights?,base,1,0.722359,-0.325233,Richard Marx,1
+Who directed the classic 30s western Stagecoach?,base,2,0.228270,-1.477227,John Ford,1
+Which volcano in Tanzania is the highest mountain in Africa?,base,3,0.021582,-3.835907,Kilimanjaro,1
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",base,4,0.021352,-3.846620,Anne Sullivan,0
+Who had a Too Legit To Quit Tour?,base,5,0.001313,-6.635090,Vanilla Ice,0
+"In the Bible, who did the sun and moon stand still before?",base,6,0.001209,-6.717790,Joshua,1
+Where did the Shinning Path terrorists operate?,base,7,0.000696,-7.270310,Peru,1
+Who was the man behind The Chipmunks?,base,8,0.000659,-7.324292,Ross Bagdasarian Sr.,1
+Which journalist first told the world about the My Lai massacre?,base,9,0.000535,-7.533410,Morley Safer,0
+What was the profession of Paul Strand (1890 - 1976)?,base,10,0.000405,-7.812163,Photographer,1
+Who had a 70s No 1 hit with Let's Do It Again?,base,11,0.000392,-7.843447,The Staple Singers,1
+Who was the last inmate of Spandau jail in Berlin?,base,12,0.000350,-7.956495,Albert Speer,0
+What star sign is Jamie Lee Curtis?,base,13,0.000318,-8.052660,Libra,0
+Who was the only Englishman to become Pope?,base,14,0.000202,-8.506270,Gregory XVI,0
+"In Greek mythology, who were Arges, Brontes and Steropes?",base,15,0.000165,-8.709101,The Cyclopes.,1
+Where in Canada is the Lion's Gate bridge?,base,16,0.000160,-8.741915,Vancouver,1
+Who had a 70s No 1 hit with Kiss You All Over?,base,17,0.000022,-10.728140,Starship,0
+Who was the first US-born winner of golf's British Open?,base,18,0.000002,-13.408998,Tiger Woods,0
+"In the Bible, who saw the handwriting on the wall?",base,19,0.000001,-13.477784,Belshazzar,1
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,base,20,0.000001,-13.555862,Chris Evert-Lloyd,1
+Who was the first person after Scott to reach the South Pole overland?,base,21,0.000001,-14.238211,Amundsen,0
+Where was horse racing's Breeder's Cup held in 1987?,base,22,0.000001,-14.498598,Hollywood Park,1
+Dave Gilmore and Roger Waters were in which rock group?,base,23,0.000000,-14.777598,Pink Floyd,1
+What was President Gerald Ford's middle name?,base,24,0.000000,-14.917032,Ellen,0
+Who is the most successful UK solo artist in the USA?,base,25,0.000000,-15.100763,Elton John,1
+Who or what was Gentle Ben in the 60s TV series?,base,26,0.000000,-15.122034,Elly May's pet bear.,0
+Which 70s show was based on the British show Till Death Us Do Part?,base,27,0.000000,-15.271671,All in the Family,1
+How was the European Recovery Program in the 1940s more commonly known?,base,28,0.000000,-15.303554,Marshall Plan,1
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",base,29,0.000000,-15.391942,Franklin D. Roosevelt,0
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,base,30,0.000000,-15.540217,Trusted Friend,1
+Who was the director of the CIA from 1976-81?,base,31,0.000000,-15.573162,Stansfield Turner,1
+Who first hosted Family Feud?,base,32,0.000000,-15.674291,Richard Dawson,1
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,base,33,0.000000,-15.702517,July 20th,1
+Who was the youngest brother in the Beach Boys?,base,34,0.000000,-15.808221,Carl,1
+"""In which movie did Garbo say, """"I want to be alone"""".""",base,35,0.000000,-16.068673,Grand Hotel (1932),1
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,base,36,0.000000,-16.089363,Joe Yabuco,0
+In which sport could the Pacers take on the Pistons?,base,37,0.000000,-16.149792,Basketball,1
+Who recorded the When Harry Met Sally soundtrack?,base,38,0.000000,-16.302270,Hans Zimmer,0
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,base,39,0.000000,-16.303504,Dangerous Minds,1
+River Phoenix died during the making of which movie?,base,40,0.000000,-16.351802,Dark Star,0
+Richard Daley was mayor of which city for 21 years?,base,41,0.000000,-16.367828,Chicago,1
+In what state was playwright Tennessee Williams born?,base,42,0.000000,-16.375847,Mississippi,1
+Of which African country is Niamey the capital?,base,43,0.000000,-16.419753,Niger,1
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,base,44,0.000000,-16.421241,Sunset Boulevard,1
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,base,45,0.000000,-16.431995,The Deer Hunter,0
+Brandon Lee died during the making of which movie?,base,46,0.000000,-16.434674,The Crow,1
+If I Were A Rich Man Was a big hit from which stage show?,base,47,0.000000,-16.435262,Fiddler on the Roof,1
+Which musical featured the song The Street Where You Live?,base,48,0.000000,-16.449911,My Fair Lady,1
+Bandar Seri Begawan International airport is in which country?,base,49,0.000000,-16.583531,Brunei,1
+Where in England was actor Nigel Hawthorne born?,base,50,0.000000,-16.591418,Normanton,0
+In which state was Gene Vincent born?,base,51,0.000000,-16.655674,Virginia,1
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",base,52,0.000000,-16.671413,Bogged.,0
+What is the name of Terence and Shirley Conran's dress designer son?,base,53,0.000000,-16.685576,Matthew Williamson,0
+Which artist David was born in Bradford UK?,base,54,0.000000,-16.715708,Lachman,0
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,base,55,0.000000,-16.730914,Treasure Island,0
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,base,56,0.000000,-16.732148,Practice.,0
+"In Greek mythology, what were the names of Oedipus's parents?",base,57,0.000000,-16.790129,Laius and Jocasta,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",base,58,0.000000,-16.914380,11,0
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,base,59,0.000000,-17.009187,Lana Turner,0
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,base,60,0.000000,-17.009622,Almost Human,1
+How old was Jimi Hendrix when he died?,base,61,0.000000,-17.020256,27,1
+Kagoshima international airport is in which country?,base,62,0.000000,-17.149057,Japan,1
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,base,63,0.000000,-17.230783,Let It Loose,0
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,base,64,0.000000,-17.236667,1920,0
+What was Truman Capote's last name before he was adopted by his stepfather?,base,65,0.000000,-17.241589,Capote,0
+What is the only novel to top the best-seller lists for two consecutive years?,base,66,0.000000,-17.276681,To Kill a Mockingbird,1
+Otis Barton was a pioneer in exploring where?,base,67,0.000000,-17.297339,Caves,0
+What is Osbert Lancaster best known for producing?,base,68,0.000000,-17.301260,Cartoonist's work,1
+Who was the next British Prime Minister after Arthur Balfour?,base,69,0.000000,-17.308381,Henry Campbell-Bannerman,1
+Which Brit broke the land speed record in 1990 in Thrust 2?,base,70,0.000000,-17.345800,Richard Noble,1
+What was the name of Michael Jackson's autobiography written in 1988?,base,71,0.000000,-17.347515,Moonwalk,1
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",base,72,0.000000,-17.348512,Sphinx,1
+Which actress was voted Miss Greenwich Village in 1942?,base,73,0.000000,-17.362997,Marilyn Monroe,0
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",base,74,0.000000,-17.396825,Morning and Evening.,0
+Rita Coolidge sang the title song for which Bond film?,base,75,0.000000,-17.439187,All Time High,0
+What was the Paramount Film Company originally called?,base,76,0.000000,-17.524259,Marion Davis Photoplays,0
+To the nearest million what is the population of Australia?,base,77,0.000000,-17.698174,25,1
+In the 80s who wrote the novel Empire of The Sun?,base,78,0.000000,-17.903496,J.G. Ballard,1
+What was Walter Matthau's first movie?,base,79,0.000000,-17.954544,Battle Cry (1955),0
+What would Kevin Scale have been called if it had adopted the originator's first name?,base,80,0.000000,-17.989854,Kirk Scale,0
+What is the Japanese share index called?,base,81,0.000000,-18.013406,Nikkei,1
+Art Garfunkel trained for which profession although he didn't qualify?,base,82,0.000000,-18.099617,Doctor,0
+Why is the site of a boxing match called a ring when it's square?,base,83,0.000000,-18.118451,Historical reference to a circular shape.,1
+The flag of Libya is a plain rectangle of which color?,base,84,0.000000,-18.201542,Green,1
+What is Mel Gibson's middle name?,base,85,0.000000,-18.244417,Patrick,0
+Which highway was Revisited in a classic 60s album by Bob Dylan?,base,86,0.000000,-18.248491,Highway 61,1
+In which country is the Sky Train Rail bridge?,base,87,0.000000,-18.407376,Thailand,0
+Which founder of the company Triad was accused by the USA of receiving bribes?,base,88,0.000000,-18.448968,Ziad Takieddine,0
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",base,89,0.000000,-18.585529,...for a rich man to enter into the kingdom of God.,1
+Which musician founded the Red Hot Peppers?,base,90,0.000000,-18.590403,Louis Armstrong,0
+Which US No 1 single came from Diana Ross's platinum album Diana?,base,91,0.000000,-19.010945,I'm Coming Out,0
+Which drink did The Spice Girls promote?,base,92,0.000000,-19.045934,Pepsi,1
+What was the last US state to reintroduce alcohol after prohibition?,base,93,0.000000,-19.203283,Utah (1933),0
+Which country does the airline TAAG come from?,base,94,0.000000,-19.324507,Angola,1
+In which decade did stereo records first go on sale?,base,95,0.000000,-19.727557,1958,1
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",base,96,0.000000,-19.777828,12,0
+Robert Kirkpatrick of California grew the world's biggest what?,base,97,0.000000,-27.631200,Pumpkin,1
+What claimed the life of singer Kathleen Ferrier?,base,98,0.000000,-27.631200,Tuberculosis,0
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,base,99,0.000000,-27.631200,Romania,0
+What was Eddie Murphy's first movie?,base,100,0.000000,-27.631200,Beverly Hills Cop,0
+How was the European Recovery Program in the 1940s more commonly known?,confident_1,1,0.354362,-1.037436,Marshall Plan,1
+Who had an 80s No 1 hit with Hold On To The Nights?,confident_1,2,0.235387,-1.446525,Richard Marx,1
+Who had a Too Legit To Quit Tour?,confident_1,3,0.211839,-1.551928,Vanilla Ice,0
+Who was the first person after Scott to reach the South Pole overland?,confident_1,4,0.195181,-1.633830,Hjalmar Johansen,0
+Who directed the classic 30s western Stagecoach?,confident_1,5,0.000214,-8.450865,John Ford,1
+"In Greek mythology, who were Arges, Brontes and Steropes?",confident_1,6,0.000169,-8.688132,The Cyclopes.,1
+Dave Gilmore and Roger Waters were in which rock group?,confident_1,7,0.000142,-8.861068,Pink Floyd,1
+In which sport could the Pacers take on the Pistons?,confident_1,8,0.000129,-8.956306,Basketball,1
+"In the Bible, who saw the handwriting on the wall?",confident_1,9,0.000125,-8.987508,Belshazzar,1
+Which musical featured the song The Street Where You Live?,confident_1,10,0.000113,-9.087344,My Fair Lady,1
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,confident_1,11,0.000113,-9.091089,July 20th,1
+"In the Bible, who did the sun and moon stand still before?",confident_1,12,0.000094,-9.277524,Joshua,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",confident_1,13,0.000062,-9.683762,14,0
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,confident_1,14,0.000057,-9.778163,"""Endless Love""",0
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",confident_1,15,0.000056,-9.790857,Anne Sullivan,0
+Who first hosted Family Feud?,confident_1,16,0.000053,-9.846776,Richard Dawson,1
+Where did the Shinning Path terrorists operate?,confident_1,17,0.000050,-9.907112,Peru,1
+In the 80s who wrote the novel Empire of The Sun?,confident_1,18,0.000047,-9.963397,J.G. Ballard,1
+What was the profession of Paul Strand (1890 - 1976)?,confident_1,19,0.000047,-9.965281,Photographer,1
+Who was the next British Prime Minister after Arthur Balfour?,confident_1,20,0.000046,-9.990431,Henry Campbell-Bannerman,1
+Which highway was Revisited in a classic 60s album by Bob Dylan?,confident_1,21,0.000042,-10.069701,Highway 61,1
+Who was the only Englishman to become Pope?,confident_1,22,0.000041,-10.110568,Nicholas IV,0
+Who was the first US-born winner of golf's British Open?,confident_1,23,0.000040,-10.131383,Francis Ouimet,0
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",confident_1,24,0.000040,-10.133294,Sphinx,0
+Brandon Lee died during the making of which movie?,confident_1,25,0.000037,-10.197171,The Crow,1
+Who had a 70s No 1 hit with Kiss You All Over?,confident_1,26,0.000037,-10.198362,Starship,0
+Who had a 70s No 1 hit with Let's Do It Again?,confident_1,27,0.000037,-10.201501,The Staple Singers,1
+Robert Kirkpatrick of California grew the world's biggest what?,confident_1,28,0.000037,-10.206678,Pumpkin,1
+Who was the youngest brother in the Beach Boys?,confident_1,29,0.000037,-10.214387,Carl,1
+Who is the most successful UK solo artist in the USA?,confident_1,30,0.000035,-10.262006,Elton John,1
+Which volcano in Tanzania is the highest mountain in Africa?,confident_1,31,0.000034,-10.303795,Kilimanjaro,1
+What was President Gerald Ford's middle name?,confident_1,32,0.000033,-10.314676,Rudolph,1
+Richard Daley was mayor of which city for 21 years?,confident_1,33,0.000033,-10.315389,Chicago,1
+What is the only novel to top the best-seller lists for two consecutive years?,confident_1,34,0.000033,-10.327219,To Kill a Mockingbird,1
+Of which African country is Niamey the capital?,confident_1,35,0.000033,-10.333564,Niger,1
+Who or what was Gentle Ben in the 60s TV series?,confident_1,36,0.000032,-10.355604,A bear.,1
+River Phoenix died during the making of which movie?,confident_1,37,0.000031,-10.375462,The Dark Half,1
+Which drink did The Spice Girls promote?,confident_1,38,0.000031,-10.384743,Pepsi,1
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,confident_1,39,0.000030,-10.401146,1920,0
+Which actress was voted Miss Greenwich Village in 1942?,confident_1,40,0.000030,-10.401567,Marilyn Monroe,0
+Which Brit broke the land speed record in 1990 in Thrust 2?,confident_1,41,0.000030,-10.404025,Richard Noble,1
+How old was Jimi Hendrix when he died?,confident_1,42,0.000030,-10.406912,27,1
+Where in Canada is the Lion's Gate bridge?,confident_1,43,0.000030,-10.408187,Vancouver,1
+In which country is the Sky Train Rail bridge?,confident_1,44,0.000027,-10.513937,Thailand,0
+Art Garfunkel trained for which profession although he didn't qualify?,confident_1,45,0.000027,-10.531608,Doctor,0
+What is Mel Gibson's middle name?,confident_1,46,0.000027,-10.531679,Edward,0
+What was the Paramount Film Company originally called?,confident_1,47,0.000027,-10.532230,Marcel V Challoner's Biograph Company,0
+"""In which movie did Garbo say, """"I want to be alone"""".""",confident_1,48,0.000027,-10.535386,Anna Christie (1935),0
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",confident_1,49,0.000026,-10.547143,12,0
+If I Were A Rich Man Was a big hit from which stage show?,confident_1,50,0.000026,-10.549511,Fiddler on the Roof,1
+Which journalist first told the world about the My Lai massacre?,confident_1,51,0.000026,-10.568271,Morley Safer,0
+Kagoshima international airport is in which country?,confident_1,52,0.000025,-10.581124,Japan,1
+In what state was playwright Tennessee Williams born?,confident_1,53,0.000025,-10.592564,Mississippi,1
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",confident_1,54,0.000024,-10.620764,...a rich man into heaven.,1
+Who was the man behind The Chipmunks?,confident_1,55,0.000024,-10.627831,Ross Bagdasarian Sr.,1
+What was Eddie Murphy's first movie?,confident_1,56,0.000024,-10.645184,Raw,0
+What was the name of Michael Jackson's autobiography written in 1988?,confident_1,57,0.000024,-10.645396,Moonwalk,1
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,confident_1,58,0.000022,-10.714589,Practice.,0
+Who was the director of the CIA from 1976-81?,confident_1,59,0.000020,-10.798164,Stansfield Turner,1
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,confident_1,60,0.000020,-10.802212,Phantom of the Opera,0
+What was Truman Capote's last name before he was adopted by his stepfather?,confident_1,61,0.000020,-10.809087,Capote,0
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,confident_1,62,0.000020,-10.822794,Friend,1
+Bandar Seri Begawan International airport is in which country?,confident_1,63,0.000020,-10.844569,Brunei,1
+In which decade did stereo records first go on sale?,confident_1,64,0.000019,-10.851510,1958,1
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,confident_1,65,0.000018,-10.899626,Batman Returns,0
+Which artist David was born in Bradford UK?,confident_1,66,0.000018,-10.916925,L.S. Lowry,0
+What would Kevin Scale have been called if it had adopted the originator's first name?,confident_1,67,0.000018,-10.920791,Kirk,0
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",confident_1,68,0.000017,-10.973325,Day and Night,0
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,confident_1,69,0.000017,-10.983456,Lana Turner,0
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,confident_1,70,0.000016,-11.043278,Robinson Crusoe,0
+What claimed the life of singer Kathleen Ferrier?,confident_1,71,0.000016,-11.061591,Breast cancer,1
+Where was horse racing's Breeder's Cup held in 1987?,confident_1,72,0.000015,-11.081702,Hollywood Park,1
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,confident_1,73,0.000015,-11.112472,Chris Evert,1
+Where in England was actor Nigel Hawthorne born?,confident_1,74,0.000015,-11.115240,Norwich,0
+Which US No 1 single came from Diana Ross's platinum album Diana?,confident_1,75,0.000015,-11.121702,I'm Coming Out,0
+The flag of Libya is a plain rectangle of which color?,confident_1,76,0.000014,-11.159463,Green,1
+What is the Japanese share index called?,confident_1,77,0.000014,-11.172572,Nikkei,1
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,confident_1,78,0.000014,-11.184167,Joe,0
+"In Greek mythology, what were the names of Oedipus's parents?",confident_1,79,0.000014,-11.193623,Laius and Jocasta,1
+What is the name of Terence and Shirley Conran's dress designer son?,confident_1,80,0.000014,-11.203556,Matthew Williamson,0
+Who recorded the When Harry Met Sally soundtrack?,confident_1,81,0.000014,-11.206353,Hans Zimmer,0
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,confident_1,82,0.000013,-11.220240,The Final Days,0
+What is Osbert Lancaster best known for producing?,confident_1,83,0.000013,-11.231040,Cartoonist's work,1
+Rita Coolidge sang the title song for which Bond film?,confident_1,84,0.000012,-11.311748,All That Jazz,0
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",confident_1,85,0.000012,-11.372055,Boggs.,0
+What was Walter Matthau's first movie?,confident_1,86,0.000011,-11.383080,Battle Cry (1955),0
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,confident_1,87,0.000011,-11.396905,Sliders,0
+Which 70s show was based on the British show Till Death Us Do Part?,confident_1,88,0.000011,-11.404469,All in the Family,1
+In which state was Gene Vincent born?,confident_1,89,0.000011,-11.432881,Virginia,1
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,confident_1,90,0.000010,-11.544897,Romania,0
+What star sign is Jamie Lee Curtis?,confident_1,91,0.000009,-11.664254,Libra,0
+Why is the site of a boxing match called a ring when it's square?,confident_1,92,0.000009,-11.669792,Circular,1
+Which musician founded the Red Hot Peppers?,confident_1,93,0.000008,-11.678903,Louis Armstrong,0
+To the nearest million what is the population of Australia?,confident_1,94,0.000008,-11.740275,25,1
+Which country does the airline TAAG come from?,confident_1,95,0.000005,-12.166012,Angola,1
+Otis Barton was a pioneer in exploring where?,confident_1,96,0.000003,-12.587165,Caves,0
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",confident_1,97,0.000003,-12.610692,Winston Churchill,0
+Who was the last inmate of Spandau jail in Berlin?,confident_1,98,0.000003,-12.645117,Albert Speer,0
+Which founder of the company Triad was accused by the USA of receiving bribes?,confident_1,99,0.000003,-12.709182,Oleg Deripaska,0
+What was the last US state to reintroduce alcohol after prohibition?,confident_1,100,0.000002,-12.934364,Utah,0
+Who directed the classic 30s western Stagecoach?,confident_2,1,0.441460,-0.817667,John Ford,1
+Who had an 80s No 1 hit with Hold On To The Nights?,confident_2,2,0.313386,-1.160320,Richard Marx,1
+Dave Gilmore and Roger Waters were in which rock group?,confident_2,3,0.241568,-1.420606,Pink Floyd,1
+Which country does the airline TAAG come from?,confident_2,4,0.000176,-8.643343,Angola,1
+What was the profession of Paul Strand (1890 - 1976)?,confident_2,5,0.000175,-8.648123,Photographer,1
+"In the Bible, who saw the handwriting on the wall?",confident_2,6,0.000156,-8.767776,Belshazzar,1
+"In the Bible, who did the sun and moon stand still before?",confident_2,7,0.000155,-8.770452,Joshua,1
+How old was Jimi Hendrix when he died?,confident_2,8,0.000130,-8.948195,27,1
+Who was the man behind The Chipmunks?,confident_2,9,0.000115,-9.071495,Ross Bagdasarian Sr.,1
+Where did the Shinning Path terrorists operate?,confident_2,10,0.000109,-9.122699,Peru,1
+Who had a Too Legit To Quit Tour?,confident_2,11,0.000105,-9.165201,Vanilla Ice,0
+In which state was Gene Vincent born?,confident_2,12,0.000074,-9.511618,Virginia,1
+Which highway was Revisited in a classic 60s album by Bob Dylan?,confident_2,13,0.000071,-9.557512,Highway 61,1
+In what state was playwright Tennessee Williams born?,confident_2,14,0.000066,-9.628914,Mississippi,1
+Who recorded the When Harry Met Sally soundtrack?,confident_2,15,0.000062,-9.686942,Hans Zimmer,0
+River Phoenix died during the making of which movie?,confident_2,16,0.000061,-9.711421,The Dark Half,1
+In which sport could the Pacers take on the Pistons?,confident_2,17,0.000060,-9.719959,Basketball,1
+Who was the youngest brother in the Beach Boys?,confident_2,18,0.000059,-9.736451,Carl,1
+Who had a 70s No 1 hit with Let's Do It Again?,confident_2,19,0.000056,-9.793932,The Staple Singers,1
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",confident_2,20,0.000056,-9.798555,Sphinx,1
+Which volcano in Tanzania is the highest mountain in Africa?,confident_2,21,0.000054,-9.829806,Kilimanjaro,1
+Where in Canada is the Lion's Gate bridge?,confident_2,22,0.000053,-9.838989,Vancouver,1
+Who first hosted Family Feud?,confident_2,23,0.000053,-9.850222,Richard Dawson,1
+Who is the most successful UK solo artist in the USA?,confident_2,24,0.000053,-9.852234,Elton John,1
+Of which African country is Niamey the capital?,confident_2,25,0.000052,-9.855908,Niger,1
+Which journalist first told the world about the My Lai massacre?,confident_2,26,0.000051,-9.888233,Morley Safer,0
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",confident_2,27,0.000051,-9.893295,Bogged.,0
+If I Were A Rich Man Was a big hit from which stage show?,confident_2,28,0.000050,-9.909745,Fiddler on the Roof,1
+What was President Gerald Ford's middle name?,confident_2,29,0.000047,-9.959438,Rudolphe,1
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,confident_2,30,0.000047,-9.964453,July 20th,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",confident_2,31,0.000047,-9.970002,14,0
+Who had a 70s No 1 hit with Kiss You All Over?,confident_2,32,0.000043,-10.049230,Starship,0
+Who was the director of the CIA from 1976-81?,confident_2,33,0.000042,-10.078265,Stansfield Turner,1
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",confident_2,34,0.000042,-10.085577,Anne Sullivan,0
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,confident_2,35,0.000041,-10.100274,Sunset Boulevard,1
+What was Truman Capote's last name before he was adopted by his stepfather?,confident_2,36,0.000041,-10.106960,Capote,0
+Who or what was Gentle Ben in the 60s TV series?,confident_2,37,0.000040,-10.139159,Elly May's pet bear.,0
+How was the European Recovery Program in the 1940s more commonly known?,confident_2,38,0.000039,-10.145904,Marshall Plan,1
+Who was the first person after Scott to reach the South Pole overland?,confident_2,39,0.000037,-10.206081,Edward Bransfield,0
+What is the Japanese share index called?,confident_2,40,0.000036,-10.245433,Nikkei,1
+What is the name of Terence and Shirley Conran's dress designer son?,confident_2,41,0.000035,-10.259312,Matthew Williamson,0
+"In Greek mythology, who were Arges, Brontes and Steropes?",confident_2,42,0.000034,-10.299502,The Cyclopes.,1
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,confident_2,43,0.000034,-10.300665,The Final Days,0
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,confident_2,44,0.000031,-10.368961,1920,0
+In the 80s who wrote the novel Empire of The Sun?,confident_2,45,0.000030,-10.399824,J.G. Ballard,1
+Which 70s show was based on the British show Till Death Us Do Part?,confident_2,46,0.000029,-10.433599,All in the Family,1
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,confident_2,47,0.000029,-10.461119,"""Endless Love""",0
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,confident_2,48,0.000029,-10.465034,Batman Returns,0
+Brandon Lee died during the making of which movie?,confident_2,49,0.000028,-10.474023,The Crow,1
+Richard Daley was mayor of which city for 21 years?,confident_2,50,0.000028,-10.491883,Chicago,1
+Kagoshima international airport is in which country?,confident_2,51,0.000027,-10.530076,Japan,1
+Who was the last inmate of Spandau jail in Berlin?,confident_2,52,0.000027,-10.531242,Albert Speer,0
+What was the name of Michael Jackson's autobiography written in 1988?,confident_2,53,0.000026,-10.539482,Moonwalk,1
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,confident_2,54,0.000026,-10.560254,Chris Evert,1
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,confident_2,55,0.000026,-10.563955,Friend,1
+Robert Kirkpatrick of California grew the world's biggest what?,confident_2,56,0.000023,-10.698854,Pumpkin,1
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,confident_2,57,0.000023,-10.700612,Joe,0
+What is the only novel to top the best-seller lists for two consecutive years?,confident_2,58,0.000021,-10.765029,To Kill a Mockingbird,1
+Who was the first US-born winner of golf's British Open?,confident_2,59,0.000021,-10.778285,Francis Ouimet,0
+What is Mel Gibson's middle name?,confident_2,60,0.000019,-10.852697,Edward,0
+What is Osbert Lancaster best known for producing?,confident_2,61,0.000019,-10.862052,Cartoonist's drawings,1
+The flag of Libya is a plain rectangle of which color?,confident_2,62,0.000019,-10.866495,Green,1
+Rita Coolidge sang the title song for which Bond film?,confident_2,63,0.000019,-10.883117,All That Jazz,0
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,confident_2,64,0.000018,-10.907421,Robinson Crusoe,0
+Which musical featured the song The Street Where You Live?,confident_2,65,0.000018,-10.923411,My Fair Lady,1
+What star sign is Jamie Lee Curtis?,confident_2,66,0.000018,-10.932814,Scorpio,1
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,confident_2,67,0.000017,-10.968265,Almost Human,1
+Which musician founded the Red Hot Peppers?,confident_2,68,0.000017,-10.975650,Louis Armstrong,0
+What claimed the life of singer Kathleen Ferrier?,confident_2,69,0.000017,-11.006295,Breast cancer,1
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,confident_2,70,0.000015,-11.078752,Practice.,0
+What would Kevin Scale have been called if it had adopted the originator's first name?,confident_2,71,0.000015,-11.114431,Kirk,0
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,confident_2,72,0.000014,-11.152641,Romania,0
+Who was the only Englishman to become Pope?,confident_2,73,0.000013,-11.219669,Nicholas IV,0
+Where in England was actor Nigel Hawthorne born?,confident_2,74,0.000013,-11.220783,Aylesbury,0
+Which Brit broke the land speed record in 1990 in Thrust 2?,confident_2,75,0.000013,-11.239956,Richard Noble,1
+In which country is the Sky Train Rail bridge?,confident_2,76,0.000013,-11.246053,Thailand,0
+Why is the site of a boxing match called a ring when it's square?,confident_2,77,0.000012,-11.300343,Circular,1
+Which artist David was born in Bradford UK?,confident_2,78,0.000012,-11.318697,L.S. Lowry,0
+Art Garfunkel trained for which profession although he didn't qualify?,confident_2,79,0.000011,-11.419563,Doctor,0
+What was the Paramount Film Company originally called?,confident_2,80,0.000010,-11.488646,Marcel Vichi's Film Production Company,0
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",confident_2,81,0.000010,-11.495473,Morning and Night.,1
+Where was horse racing's Breeder's Cup held in 1987?,confident_2,82,0.000010,-11.523314,Hollywood Park,1
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",confident_2,83,0.000010,-11.553812,...a rich man into heaven.,1
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,confident_2,84,0.000009,-11.644619,Lana Turner,0
+"""In which movie did Garbo say, """"I want to be alone"""".""",confident_2,85,0.000009,-11.648471,Anna Christie (1935),0
+"In Greek mythology, what were the names of Oedipus's parents?",confident_2,86,0.000008,-11.693648,Laius and Jocasta,1
+Which drink did The Spice Girls promote?,confident_2,87,0.000008,-11.793943,Pepsi,1
+Which actress was voted Miss Greenwich Village in 1942?,confident_2,88,0.000007,-11.801495,Marilyn Monroe,0
+Which US No 1 single came from Diana Ross's platinum album Diana?,confident_2,89,0.000007,-11.807229,I'm Coming Out,0
+What was Walter Matthau's first movie?,confident_2,90,0.000007,-11.877912,Battle Cry (1955),0
+Who was the next British Prime Minister after Arthur Balfour?,confident_2,91,0.000007,-11.927725,Henry Campbell-Bannerman,1
+In which decade did stereo records first go on sale?,confident_2,92,0.000007,-11.929759,1958,1
+Which founder of the company Triad was accused by the USA of receiving bribes?,confident_2,93,0.000006,-11.948207,Oleg Deripaska,0
+To the nearest million what is the population of Australia?,confident_2,94,0.000006,-11.948363,25,1
+Otis Barton was a pioneer in exploring where?,confident_2,95,0.000005,-12.111360,Caves,0
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",confident_2,96,0.000005,-12.139394,Adolf Hitler,1
+What was Eddie Murphy's first movie?,confident_2,97,0.000004,-12.399971,Raw,0
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",confident_2,98,0.000004,-12.414636,14,0
+Bandar Seri Begawan International airport is in which country?,confident_2,99,0.000004,-12.481341,Brunei,1
+What was the last US state to reintroduce alcohol after prohibition?,confident_2,100,0.000000,-27.631118,Utah,0
+What was the profession of Paul Strand (1890 - 1976)?,doubtful_1,1,0.391037,-0.938954,Photographer,1
+Who directed the classic 30s western Stagecoach?,doubtful_1,2,0.362362,-1.015112,John Ford,1
+Who had an 80s No 1 hit with Hold On To The Nights?,doubtful_1,3,0.241407,-1.421272,Richard Marx,1
+Who had a Too Legit To Quit Tour?,doubtful_1,4,0.000266,-8.232838,Vanilla Ice,0
+"In the Bible, who saw the handwriting on the wall?",doubtful_1,5,0.000228,-8.386358,Belshazzar,1
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,doubtful_1,6,0.000168,-8.694330,Read 'Em This,0
+Which musical featured the song The Street Where You Live?,doubtful_1,7,0.000150,-8.806905,My Fair Lady,1
+Which journalist first told the world about the My Lai massacre?,doubtful_1,8,0.000149,-8.813788,Ronald L. Haeberle,0
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",doubtful_1,9,0.000146,-8.831240,Anne Sullivan,0
+Who had a 70s No 1 hit with Kiss You All Over?,doubtful_1,10,0.000127,-8.973722,Starship,0
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",doubtful_1,11,0.000126,-8.979648,Sphinx,1
+How was the European Recovery Program in the 1940s more commonly known?,doubtful_1,12,0.000125,-8.985516,Marshall Plan,1
+Which highway was Revisited in a classic 60s album by Bob Dylan?,doubtful_1,13,0.000121,-9.016625,Highway 61,1
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,doubtful_1,14,0.000121,-9.018057,The Holy Blood and the Holy Grail,0
+In which sport could the Pacers take on the Pistons?,doubtful_1,15,0.000110,-9.115595,Basketball,1
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",doubtful_1,16,0.000104,-9.171621,Day and Night.,0
+Who was the first person after Scott to reach the South Pole overland?,doubtful_1,17,0.000098,-9.228128,Hjalmar Johansen,0
+What was the name of Michael Jackson's autobiography written in 1988?,doubtful_1,18,0.000097,-9.237590,Moonwalk,1
+Richard Daley was mayor of which city for 21 years?,doubtful_1,19,0.000096,-9.255686,Chicago,1
+"In Greek mythology, who were Arges, Brontes and Steropes?",doubtful_1,20,0.000094,-9.271404,The Cyclopes.,1
+Who was the man behind The Chipmunks?,doubtful_1,21,0.000084,-9.379223,Ross Bagdasarian Sr.,1
+What is the Japanese share index called?,doubtful_1,22,0.000079,-9.450974,Nikkei,1
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,doubtful_1,23,0.000078,-9.460345,Practice.,0
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,doubtful_1,24,0.000078,-9.463102,July 20th,1
+Brandon Lee died during the making of which movie?,doubtful_1,25,0.000072,-9.532768,The Crow,1
+Where did the Shinning Path terrorists operate?,doubtful_1,26,0.000071,-9.550928,Peru,1
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",doubtful_1,27,0.000070,-9.562192,than a rich man into the kingdom of God.,1
+Who was the director of the CIA from 1976-81?,doubtful_1,28,0.000068,-9.598952,Stansfield Turner,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",doubtful_1,29,0.000066,-9.629602,14,0
+Who or what was Gentle Ben in the 60s TV series?,doubtful_1,30,0.000060,-9.715361,Teddy bear,0
+"In Greek mythology, what were the names of Oedipus's parents?",doubtful_1,31,0.000060,-9.722204,Laius and Jocasta,1
+"In the Bible, who did the sun and moon stand still before?",doubtful_1,32,0.000059,-9.743429,Joshua,1
+Who first hosted Family Feud?,doubtful_1,33,0.000057,-9.775740,Richard Dawson,1
+Dave Gilmore and Roger Waters were in which rock group?,doubtful_1,34,0.000057,-9.776993,Pink Floyd,1
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,doubtful_1,35,0.000057,-9.781155,Chris Evert,1
+"""In which movie did Garbo say, """"I want to be alone"""".""",doubtful_1,36,0.000055,-9.803185,Grand Hotel,1
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,doubtful_1,37,0.000054,-9.829680,Batman Forever,0
+Who had a 70s No 1 hit with Let's Do It Again?,doubtful_1,38,0.000054,-9.831204,The Staple Singers,1
+Who was the youngest brother in the Beach Boys?,doubtful_1,39,0.000053,-9.848532,Carl,1
+Who is the most successful UK solo artist in the USA?,doubtful_1,40,0.000052,-9.868252,Elton John,1
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",doubtful_1,41,0.000051,-9.889911,Bakewell tart,0
+Which country does the airline TAAG come from?,doubtful_1,42,0.000049,-9.915841,Angola,1
+Who was the first US-born winner of golf's British Open?,doubtful_1,43,0.000048,-9.934298,Francis Ouimet,0
+What is Osbert Lancaster best known for producing?,doubtful_1,44,0.000048,-9.938438,Ballets.,0
+Robert Kirkpatrick of California grew the world's biggest what?,doubtful_1,45,0.000048,-9.944997,Pumpkin,1
+Which 70s show was based on the British show Till Death Us Do Part?,doubtful_1,46,0.000048,-9.945504,All in the Family,1
+Which volcano in Tanzania is the highest mountain in Africa?,doubtful_1,47,0.000045,-10.006418,Kilimanjaro,1
+Who was the only Englishman to become Pope?,doubtful_1,48,0.000043,-10.052706,Adrian IV,1
+If I Were A Rich Man Was a big hit from which stage show?,doubtful_1,49,0.000042,-10.072947,Fiddler on the Roof,1
+What was Truman Capote's last name before he was adopted by his stepfather?,doubtful_1,50,0.000041,-10.096799,Capote,0
+What claimed the life of singer Kathleen Ferrier?,doubtful_1,51,0.000041,-10.112122,Breast cancer,1
+Art Garfunkel trained for which profession although he didn't qualify?,doubtful_1,52,0.000040,-10.116475,Doctor,0
+Rita Coolidge sang the title song for which Bond film?,doubtful_1,53,0.000038,-10.185672,All That Jazz,0
+Where was horse racing's Breeder's Cup held in 1987?,doubtful_1,54,0.000036,-10.231909,Hollywood Park,1
+Which actress was voted Miss Greenwich Village in 1942?,doubtful_1,55,0.000036,-10.243234,Marilyn Monroe,0
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,doubtful_1,56,0.000035,-10.253853,Robinson Crusoe,0
+Of which African country is Niamey the capital?,doubtful_1,57,0.000035,-10.265880,Niger,1
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",doubtful_1,58,0.000033,-10.307533,Winston Churchill,0
+River Phoenix died during the making of which movie?,doubtful_1,59,0.000033,-10.325121,The Dark Half,1
+In which state was Gene Vincent born?,doubtful_1,60,0.000033,-10.330557,Virginia,1
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,doubtful_1,61,0.000031,-10.371237,1920,0
+Which US No 1 single came from Diana Ross's platinum album Diana?,doubtful_1,62,0.000031,-10.377834,I'm Coming Out,0
+In what state was playwright Tennessee Williams born?,doubtful_1,63,0.000029,-10.457015,Mississippi,1
+Kagoshima international airport is in which country?,doubtful_1,64,0.000028,-10.476759,Japan,1
+The flag of Libya is a plain rectangle of which color?,doubtful_1,65,0.000028,-10.487628,Green,1
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,doubtful_1,66,0.000027,-10.529388,Lana Turner,0
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,doubtful_1,67,0.000026,-10.548755,Phantom of the Opera,0
+What was the Paramount Film Company originally called?,doubtful_1,68,0.000025,-10.587667,Marcel Vichi Film Corporation,0
+How old was Jimi Hendrix when he died?,doubtful_1,69,0.000025,-10.592513,27,1
+Who was the next British Prime Minister after Arthur Balfour?,doubtful_1,70,0.000024,-10.618247,Henry Campbell-Bannerman,1
+Where in England was actor Nigel Hawthorne born?,doubtful_1,71,0.000024,-10.647561,Aylesbury,0
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,doubtful_1,72,0.000024,-10.656886,Trusted Friend,1
+Why is the site of a boxing match called a ring when it's square?,doubtful_1,73,0.000023,-10.694287,Circular,1
+Which drink did The Spice Girls promote?,doubtful_1,74,0.000022,-10.742405,Pepsi,1
+Who recorded the When Harry Met Sally soundtrack?,doubtful_1,75,0.000021,-10.753486,Hans Zimmer,0
+What is the name of Terence and Shirley Conran's dress designer son?,doubtful_1,76,0.000021,-10.759194,Matthew Williamson,0
+Where in Canada is the Lion's Gate bridge?,doubtful_1,77,0.000021,-10.761388,Vancouver,1
+What was President Gerald Ford's middle name?,doubtful_1,78,0.000021,-10.762247,Robert,0
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,doubtful_1,79,0.000021,-10.773933,Mutt.,0
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,doubtful_1,80,0.000021,-10.779104,Romania,0
+What is Mel Gibson's middle name?,doubtful_1,81,0.000021,-10.784697,Raymond,0
+In the 80s who wrote the novel Empire of The Sun?,doubtful_1,82,0.000020,-10.813111,J.G. Ballard,1
+Who was the last inmate of Spandau jail in Berlin?,doubtful_1,83,0.000019,-10.849355,Albert Brasch,0
+What is the only novel to top the best-seller lists for two consecutive years?,doubtful_1,84,0.000019,-10.854870,To Kill a Mockingbird,1
+In which country is the Sky Train Rail bridge?,doubtful_1,85,0.000019,-10.893620,Thailand,0
+Which Brit broke the land speed record in 1990 in Thrust 2?,doubtful_1,86,0.000016,-11.064904,Richard Noble,1
+What would Kevin Scale have been called if it had adopted the originator's first name?,doubtful_1,87,0.000015,-11.128036,Kirk,0
+Which artist David was born in Bradford UK?,doubtful_1,88,0.000014,-11.167954,L.S. Lowry,0
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",doubtful_1,89,0.000013,-11.218393,36,0
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,doubtful_1,90,0.000013,-11.230296,Almost Genius,0
+In which decade did stereo records first go on sale?,doubtful_1,91,0.000013,-11.239442,1950s,1
+What was Eddie Murphy's first movie?,doubtful_1,92,0.000013,-11.254431,Beverly Hills Cop,0
+To the nearest million what is the population of Australia?,doubtful_1,93,0.000012,-11.340005,25,1
+Otis Barton was a pioneer in exploring where?,doubtful_1,94,0.000011,-11.417830,Caves,0
+What star sign is Jamie Lee Curtis?,doubtful_1,95,0.000010,-11.537405,Scorpio,1
+What was Walter Matthau's first movie?,doubtful_1,96,0.000009,-11.590831,Battle Cry (1955),0
+Which musician founded the Red Hot Peppers?,doubtful_1,97,0.000009,-11.593433,Louis Armstrong,0
+Which founder of the company Triad was accused by the USA of receiving bribes?,doubtful_1,98,0.000009,-11.631629,Ziad Takieddine,0
+Bandar Seri Begawan International airport is in which country?,doubtful_1,99,0.000007,-11.811248,Brunei,1
+What was the last US state to reintroduce alcohol after prohibition?,doubtful_1,100,0.000007,-11.821375,Utah,0
+"In Greek mythology, who were Arges, Brontes and Steropes?",doubtful_2,1,0.504454,-0.684278,The Cyclopes.,1
+Who directed the classic 30s western Stagecoach?,doubtful_2,2,0.491137,-0.711033,John Ford,1
+Who had a 70s No 1 hit with Let's Do It Again?,doubtful_2,3,0.000321,-8.045344,The Staple Singers,1
+Who had a Too Legit To Quit Tour?,doubtful_2,4,0.000297,-8.122763,Vanilla Ice,0
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,doubtful_2,5,0.000273,-8.205951,July 20th,1
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,doubtful_2,6,0.000187,-8.584529,"""Keep Feelin' Faithful""",0
+Who recorded the When Harry Met Sally soundtrack?,doubtful_2,7,0.000136,-8.902378,Hollywood Orchestra,0
+Who had a 70s No 1 hit with Kiss You All Over?,doubtful_2,8,0.000136,-8.905438,Starship,0
+Who was the man behind The Chipmunks?,doubtful_2,9,0.000115,-9.074879,Ross Bagdasarian Sr.,1
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",doubtful_2,10,0.000083,-9.402083,Alexander Graham Bell,1
+Dave Gilmore and Roger Waters were in which rock group?,doubtful_2,11,0.000083,-9.402280,Pink Floyd,1
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,doubtful_2,12,0.000077,-9.472516,Batman Returns,0
+"In the Bible, who saw the handwriting on the wall?",doubtful_2,13,0.000073,-9.521277,Belshazzar,1
+Who is the most successful UK solo artist in the USA?,doubtful_2,14,0.000071,-9.551839,Elton John,1
+Who had an 80s No 1 hit with Hold On To The Nights?,doubtful_2,15,0.000069,-9.584796,Richard Marx,1
+What was the profession of Paul Strand (1890 - 1976)?,doubtful_2,16,0.000068,-9.602503,Photographer,1
+Which country does the airline TAAG come from?,doubtful_2,17,0.000066,-9.625087,Angola,1
+Who first hosted Family Feud?,doubtful_2,18,0.000065,-9.634622,Richard Dawson,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",doubtful_2,19,0.000065,-9.647797,14,0
+In what state was playwright Tennessee Williams born?,doubtful_2,20,0.000061,-9.698382,Mississippi,1
+Richard Daley was mayor of which city for 21 years?,doubtful_2,21,0.000061,-9.703770,Chicago,1
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",doubtful_2,22,0.000061,-9.706644,"""than for a rich man to enter the kingdom of God.""",1
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",doubtful_2,23,0.000060,-9.724198,Winston Churchill,0
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,doubtful_2,24,0.000059,-9.739221,Chris Evert,1
+Which journalist first told the world about the My Lai massacre?,doubtful_2,25,0.000058,-9.761696,Morley Safer,0
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,doubtful_2,26,0.000057,-9.779220,Practice.,0
+Who or what was Gentle Ben in the 60s TV series?,doubtful_2,27,0.000055,-9.814284,A giant bear.,1
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,doubtful_2,28,0.000055,-9.816949,1920,0
+Which US No 1 single came from Diana Ross's platinum album Diana?,doubtful_2,29,0.000052,-9.868568,I'm Coming Out,0
+In the 80s who wrote the novel Empire of The Sun?,doubtful_2,30,0.000051,-9.877400,J.G. Ballard,1
+What is the Japanese share index called?,doubtful_2,31,0.000051,-9.891502,Nikkei,1
+Which musician founded the Red Hot Peppers?,doubtful_2,32,0.000050,-9.906133,Louis Armstrong,0
+What is the only novel to top the best-seller lists for two consecutive years?,doubtful_2,33,0.000048,-9.941702,To Kill a Mockingbird,1
+Which highway was Revisited in a classic 60s album by Bob Dylan?,doubtful_2,34,0.000045,-10.003816,Highway 61,1
+What is Mel Gibson's middle name?,doubtful_2,35,0.000043,-10.048849,William,0
+In which sport could the Pacers take on the Pistons?,doubtful_2,36,0.000043,-10.050973,Basketball,1
+Who was the youngest brother in the Beach Boys?,doubtful_2,37,0.000039,-10.157186,Carl,1
+Where was horse racing's Breeder's Cup held in 1987?,doubtful_2,38,0.000036,-10.239627,Hollywood Park,1
+Who was the first person after Scott to reach the South Pole overland?,doubtful_2,39,0.000034,-10.277751,Hjalmar Johansen,0
+Which 70s show was based on the British show Till Death Us Do Part?,doubtful_2,40,0.000034,-10.280566,All in the Family,1
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",doubtful_2,41,0.000034,-10.297103,Day and Night,0
+Brandon Lee died during the making of which movie?,doubtful_2,42,0.000033,-10.330383,The Crow,1
+River Phoenix died during the making of which movie?,doubtful_2,43,0.000031,-10.373297,The Dark Half,1
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,doubtful_2,44,0.000031,-10.377741,Joe.,0
+Art Garfunkel trained for which profession although he didn't qualify?,doubtful_2,45,0.000030,-10.419688,Doctor,0
+What was President Gerald Ford's middle name?,doubtful_2,46,0.000030,-10.427065,Robert,0
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,doubtful_2,47,0.000029,-10.436524,Sunset Boulevard,1
+"In the Bible, who did the sun and moon stand still before?",doubtful_2,48,0.000029,-10.442783,Joshua,1
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,doubtful_2,49,0.000029,-10.447701,Romania,0
+How old was Jimi Hendrix when he died?,doubtful_2,50,0.000029,-10.462343,27,1
+Which volcano in Tanzania is the highest mountain in Africa?,doubtful_2,51,0.000028,-10.477392,Kilimanjaro,1
+"In Greek mythology, what were the names of Oedipus's parents?",doubtful_2,52,0.000028,-10.477900,Laius and Jocasta,1
+What was the Paramount Film Company originally called?,doubtful_2,53,0.000028,-10.488455,Marcel V Challoner Film Company,0
+Which founder of the company Triad was accused by the USA of receiving bribes?,doubtful_2,54,0.000028,-10.497957,Piero Ferrari,0
+How was the European Recovery Program in the 1940s more commonly known?,doubtful_2,55,0.000028,-10.500277,Marshall Plan,1
+Where did the Shinning Path terrorists operate?,doubtful_2,56,0.000027,-10.508868,Peru,1
+What claimed the life of singer Kathleen Ferrier?,doubtful_2,57,0.000027,-10.527043,Breast cancer,1
+Who was the next British Prime Minister after Arthur Balfour?,doubtful_2,58,0.000026,-10.556111,Henry Campbell-Bannerman,1
+What was the name of Michael Jackson's autobiography written in 1988?,doubtful_2,59,0.000025,-10.616306,Moonwalk,1
+What would Kevin Scale have been called if it had adopted the originator's first name?,doubtful_2,60,0.000024,-10.617848,Kirk,0
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,doubtful_2,61,0.000024,-10.647073,Robinson Crusoe,0
+What is the name of Terence and Shirley Conran's dress designer son?,doubtful_2,62,0.000022,-10.735207,Matthew Williamson,0
+What was Truman Capote's last name before he was adopted by his stepfather?,doubtful_2,63,0.000022,-10.736056,Capote,0
+Which musical featured the song The Street Where You Live?,doubtful_2,64,0.000022,-10.736822,My Fair Lady,1
+If I Were A Rich Man Was a big hit from which stage show?,doubtful_2,65,0.000022,-10.745482,Fiddler on the Roof,1
+Rita Coolidge sang the title song for which Bond film?,doubtful_2,66,0.000021,-10.753944,All That Jazz,0
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,doubtful_2,67,0.000021,-10.777913,Lana Turner,0
+Who was the first US-born winner of golf's British Open?,doubtful_2,68,0.000021,-10.786325,Francis Ouimet,0
+Which actress was voted Miss Greenwich Village in 1942?,doubtful_2,69,0.000021,-10.787732,Marilyn Monroe,0
+In which decade did stereo records first go on sale?,doubtful_2,70,0.000020,-10.828691,1950s,1
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,doubtful_2,71,0.000019,-10.864963,The Deer Hunter,0
+In which country is the Sky Train Rail bridge?,doubtful_2,72,0.000019,-10.877379,Thailand,0
+"""In which movie did Garbo say, """"I want to be alone"""".""",doubtful_2,73,0.000019,-10.880377,Grand Hotel,1
+Kagoshima international airport is in which country?,doubtful_2,74,0.000018,-10.907024,Japan,1
+In which state was Gene Vincent born?,doubtful_2,75,0.000018,-10.909056,Virginia,1
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",doubtful_2,76,0.000018,-10.945594,Sphinx,0
+Where in England was actor Nigel Hawthorne born?,doubtful_2,77,0.000018,-10.946272,Abingdon,0
+What is Osbert Lancaster best known for producing?,doubtful_2,78,0.000018,-10.947342,Punch cartoons,1
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,doubtful_2,79,0.000017,-10.992444,Sliders,0
+Of which African country is Niamey the capital?,doubtful_2,80,0.000017,-11.005493,Niger,1
+Who was the director of the CIA from 1976-81?,doubtful_2,81,0.000015,-11.075616,Stansfield Turner,1
+Why is the site of a boxing match called a ring when it's square?,doubtful_2,82,0.000015,-11.091673,Historical reason.,0
+Which artist David was born in Bradford UK?,doubtful_2,83,0.000015,-11.111428,L.S. Lowry,0
+To the nearest million what is the population of Australia?,doubtful_2,84,0.000014,-11.169853,25,1
+Robert Kirkpatrick of California grew the world's biggest what?,doubtful_2,85,0.000013,-11.221245,Pumpkin,1
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",doubtful_2,86,0.000013,-11.265939,Bakewell tart,0
+Where in Canada is the Lion's Gate bridge?,doubtful_2,87,0.000012,-11.334535,Vancouver,1
+Otis Barton was a pioneer in exploring where?,doubtful_2,88,0.000012,-11.352282,Caves,0
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,doubtful_2,89,0.000011,-11.373747,"""Friend""",1
+Which drink did The Spice Girls promote?,doubtful_2,90,0.000011,-11.383330,Pepsi,1
+Who was the only Englishman to become Pope?,doubtful_2,91,0.000011,-11.390152,Adrian IV,1
+What star sign is Jamie Lee Curtis?,doubtful_2,92,0.000009,-11.581518,Libra,0
+Which Brit broke the land speed record in 1990 in Thrust 2?,doubtful_2,93,0.000009,-11.603571,Richard Noble,1
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",doubtful_2,94,0.000009,-11.630608,36,0
+Who was the last inmate of Spandau jail in Berlin?,doubtful_2,95,0.000009,-11.630885,Albert Brasch,0
+The flag of Libya is a plain rectangle of which color?,doubtful_2,96,0.000008,-11.700060,Green,1
+What was Walter Matthau's first movie?,doubtful_2,97,0.000007,-11.896202,Battle Cry (1955),0
+What was Eddie Murphy's first movie?,doubtful_2,98,0.000006,-12.020430,Beverly Hills Cop,0
+What was the last US state to reintroduce alcohol after prohibition?,doubtful_2,99,0.000006,-12.031547,Utah,0
+Bandar Seri Begawan International airport is in which country?,doubtful_2,100,0.000001,-13.509909,Brunei,1
+Who directed the classic 30s western Stagecoach?,evidential_1,1,0.989532,-0.010523,John Ford,1
+"In the Bible, who saw the handwriting on the wall?",evidential_1,2,0.004032,-5.513438,Belshazzar,1
+Who was the first person after Scott to reach the South Pole overland?,evidential_1,3,0.003874,-5.553578,Hjalmar Johansen,0
+Who had a Too Legit To Quit Tour?,evidential_1,4,0.001387,-6.580537,Van Halen,0
+Who had a 70s No 1 hit with Let's Do It Again?,evidential_1,5,0.001145,-6.772436,The Staple Singers,1
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,evidential_1,6,0.000003,-12.573391,"""Endless Love""",0
+Which musical featured the song The Street Where You Live?,evidential_1,7,0.000003,-12.890289,My Fair Lady,1
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",evidential_1,8,0.000002,-13.263479,Bakewell tart.,0
+Which volcano in Tanzania is the highest mountain in Africa?,evidential_1,9,0.000001,-13.588158,Kilimanjaro,1
+Which journalist first told the world about the My Lai massacre?,evidential_1,10,0.000001,-13.644971,Morley Safer,0
+What was the profession of Paul Strand (1890 - 1976)?,evidential_1,11,0.000001,-13.751251,Photographer,1
+Who had an 80s No 1 hit with Hold On To The Nights?,evidential_1,12,0.000001,-13.964575,Richard Marx,1
+How was the European Recovery Program in the 1940s more commonly known?,evidential_1,13,0.000001,-13.969231,Marshall Plan,1
+What was President Gerald Ford's middle name?,evidential_1,14,0.000001,-14.134718,Roberts,0
+Who first hosted Family Feud?,evidential_1,15,0.000001,-14.139328,Richard Dawson,1
+What is the only novel to top the best-seller lists for two consecutive years?,evidential_1,16,0.000001,-14.223665,To Kill a Mockingbird,1
+What is Osbert Lancaster best known for producing?,evidential_1,17,0.000001,-14.258038,Ballets and cartoons.,0
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",evidential_1,18,0.000001,-14.349648,Alexander Graham Bell,1
+"""In which movie did Garbo say, """"I want to be alone"""".""",evidential_1,19,0.000001,-14.437662,Grand Hotel (1932),1
+Who recorded the When Harry Met Sally soundtrack?,evidential_1,20,0.000001,-14.486962,Hans Zimmer and Marc Shaiman,0
+Which country does the airline TAAG come from?,evidential_1,21,0.000000,-14.564676,Angola,1
+Brandon Lee died during the making of which movie?,evidential_1,22,0.000000,-14.586696,The Crow,1
+Dave Gilmore and Roger Waters were in which rock group?,evidential_1,23,0.000000,-14.699345,Pink Floyd,1
+Who was the youngest brother in the Beach Boys?,evidential_1,24,0.000000,-14.723801,Carl,1
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,evidential_1,25,0.000000,-14.814484,July 20th,1
+The flag of Libya is a plain rectangle of which color?,evidential_1,26,0.000000,-14.840120,Green,1
+Richard Daley was mayor of which city for 21 years?,evidential_1,27,0.000000,-14.854833,Chicago,1
+River Phoenix died during the making of which movie?,evidential_1,28,0.000000,-14.875919,The Dark Half,1
+Who was the director of the CIA from 1976-81?,evidential_1,29,0.000000,-14.952568,Stansfield Turner,1
+Which Brit broke the land speed record in 1990 in Thrust 2?,evidential_1,30,0.000000,-14.958268,Richard Noble,1
+Which highway was Revisited in a classic 60s album by Bob Dylan?,evidential_1,31,0.000000,-14.986539,Highway 61,1
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",evidential_1,32,0.000000,-15.032624,Morning and Evening.,1
+In which sport could the Pacers take on the Pistons?,evidential_1,33,0.000000,-15.101482,Basketball,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",evidential_1,34,0.000000,-15.162286,14,0
+In what state was playwright Tennessee Williams born?,evidential_1,35,0.000000,-15.175595,Mississippi,1
+Of which African country is Niamey the capital?,evidential_1,36,0.000000,-15.176546,Niger,1
+Who was the man behind The Chipmunks?,evidential_1,37,0.000000,-15.220299,Ross Bagdasarian Sr.,1
+Bandar Seri Begawan International airport is in which country?,evidential_1,38,0.000000,-15.222663,Brunei,1
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,evidential_1,39,0.000000,-15.238680,Sunset Boulevard,1
+Where in England was actor Nigel Hawthorne born?,evidential_1,40,0.000000,-15.290209,Nailsea,0
+Who had a 70s No 1 hit with Kiss You All Over?,evidential_1,41,0.000000,-15.293325,Starship,0
+Rita Coolidge sang the title song for which Bond film?,evidential_1,42,0.000000,-15.301488,All That Jazz,0
+What was Truman Capote's last name before he was adopted by his stepfather?,evidential_1,43,0.000000,-15.315327,Capote,0
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",evidential_1,44,0.000000,-15.408821,14,0
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,evidential_1,45,0.000000,-15.409974,Batman Returns,0
+In which state was Gene Vincent born?,evidential_1,46,0.000000,-15.430170,Virginia,1
+Which artist David was born in Bradford UK?,evidential_1,47,0.000000,-15.475396,L.S. Lowry,0
+Who was the next British Prime Minister after Arthur Balfour?,evidential_1,48,0.000000,-15.479911,Henry Campbell-Bannerman,1
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,evidential_1,49,0.000000,-15.483707,Practice.,0
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,evidential_1,50,0.000000,-15.510700,Chris Evert,1
+Kagoshima international airport is in which country?,evidential_1,51,0.000000,-15.563758,Japan,1
+What was the Paramount Film Company originally called?,evidential_1,52,0.000000,-15.581734,Marston Films,0
+What is the Japanese share index called?,evidential_1,53,0.000000,-15.599582,Nikkei,1
+In the 80s who wrote the novel Empire of The Sun?,evidential_1,54,0.000000,-15.605524,J.G. Ballard,1
+If I Were A Rich Man Was a big hit from which stage show?,evidential_1,55,0.000000,-15.606084,Fiddler on the Roof,1
+What was the last US state to reintroduce alcohol after prohibition?,evidential_1,56,0.000000,-15.616755,Utah,0
+What is the name of Terence and Shirley Conran's dress designer son?,evidential_1,57,0.000000,-15.632105,Matthew Williamson,0
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,evidential_1,58,0.000000,-15.661985,1920,0
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",evidential_1,59,0.000000,-15.668596,Sphinx,1
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,evidential_1,60,0.000000,-15.693970,The Holy Blood and the Holy Grail,0
+Which US No 1 single came from Diana Ross's platinum album Diana?,evidential_1,61,0.000000,-15.704695,"""I'm Coming Out""",0
+Who is the most successful UK solo artist in the USA?,evidential_1,62,0.000000,-15.796151,Elton John,1
+Which founder of the company Triad was accused by the USA of receiving bribes?,evidential_1,63,0.000000,-15.827990,Zhou Yongkang,0
+How old was Jimi Hendrix when he died?,evidential_1,64,0.000000,-15.865955,27,1
+Where in Canada is the Lion's Gate bridge?,evidential_1,65,0.000000,-15.866927,Vancouver,1
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,evidential_1,66,0.000000,-15.894985,Tank McNamara,0
+Where was horse racing's Breeder's Cup held in 1987?,evidential_1,67,0.000000,-15.919813,Hollywood Park,1
+Who or what was Gentle Ben in the 60s TV series?,evidential_1,68,0.000000,-16.038690,Teddy bear,0
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",evidential_1,69,0.000000,-16.201161,...than for a rich man to enter the kingdom of God.,1
+"In the Bible, who did the sun and moon stand still before?",evidential_1,70,0.000000,-16.222591,Joshua,1
+What is Mel Gibson's middle name?,evidential_1,71,0.000000,-16.223427,William,0
+What was Walter Matthau's first movie?,evidential_1,72,0.000000,-16.228426,Battle Cry (1955),0
+"In Greek mythology, who were Arges, Brontes and Steropes?",evidential_1,73,0.000000,-16.265161,The Cyclopes.,1
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,evidential_1,74,0.000000,-16.276767,Robinson Crusoe,0
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,evidential_1,75,0.000000,-16.322666,Lana Turner,0
+What was Eddie Murphy's first movie?,evidential_1,76,0.000000,-16.361686,Raw,0
+Which actress was voted Miss Greenwich Village in 1942?,evidential_1,77,0.000000,-16.365767,Marilyn Monroe,0
+In which decade did stereo records first go on sale?,evidential_1,78,0.000000,-16.366462,1958,1
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",evidential_1,79,0.000000,-16.441072,Franklin D. Roosevelt,0
+Who was the last inmate of Spandau jail in Berlin?,evidential_1,80,0.000000,-16.534071,Albert Brasch,0
+In which country is the Sky Train Rail bridge?,evidential_1,81,0.000000,-16.539807,Thailand,0
+Art Garfunkel trained for which profession although he didn't qualify?,evidential_1,82,0.000000,-16.629250,Ophthalmologist,0
+What would Kevin Scale have been called if it had adopted the originator's first name?,evidential_1,83,0.000000,-16.637455,Kirk Scale,0
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,evidential_1,84,0.000000,-16.696310,Romania,0
+What star sign is Jamie Lee Curtis?,evidential_1,85,0.000000,-16.774522,Libra,0
+Which 70s show was based on the British show Till Death Us Do Part?,evidential_1,86,0.000000,-16.794447,All in the Family,1
+Which drink did The Spice Girls promote?,evidential_1,87,0.000000,-16.797502,Pepsi,1
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,evidential_1,88,0.000000,-16.841576,"""Trusted Friend""",1
+Otis Barton was a pioneer in exploring where?,evidential_1,89,0.000000,-16.857420,Caves,0
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,evidential_1,90,0.000000,-16.890487,Sliders,0
+Who was the first US-born winner of golf's British Open?,evidential_1,91,0.000000,-16.940711,Francis Ouimet,0
+What claimed the life of singer Kathleen Ferrier?,evidential_1,92,0.000000,-17.022028,Breast cancer,1
+What was the name of Michael Jackson's autobiography written in 1988?,evidential_1,93,0.000000,-17.071276,Moonwalk,1
+Why is the site of a boxing match called a ring when it's square?,evidential_1,94,0.000000,-17.271033,Historical tradition.,0
+"In Greek mythology, what were the names of Oedipus's parents?",evidential_1,95,0.000000,-17.401272,Laius and Jocasta,1
+Robert Kirkpatrick of California grew the world's biggest what?,evidential_1,96,0.000000,-17.607388,Pumpkin,1
+To the nearest million what is the population of Australia?,evidential_1,97,0.000000,-17.695254,25 million,1
+Who was the only Englishman to become Pope?,evidential_1,98,0.000000,-17.701960,Adrian IV,1
+Which musician founded the Red Hot Peppers?,evidential_1,99,0.000000,-17.997304,Louis Armstrong,0
+Where did the Shinning Path terrorists operate?,evidential_1,100,0.000000,-27.631213,Peru,1
+Dave Gilmore and Roger Waters were in which rock group?,evidential_2,1,0.384742,-0.955183,Pink Floyd,1
+Who directed the classic 30s western Stagecoach?,evidential_2,2,0.366001,-1.005119,John Ford,1
+Who had a Too Legit To Quit Tour?,evidential_2,3,0.243495,-1.412659,Vanilla Ice,0
+Who first hosted Family Feud?,evidential_2,4,0.000418,-7.779011,Richard Dawson,1
+Richard Daley was mayor of which city for 21 years?,evidential_2,5,0.000396,-7.834566,Chicago,1
+How was the European Recovery Program in the 1940s more commonly known?,evidential_2,6,0.000320,-8.046934,Marshall Plan,1
+"In the Bible, who saw the handwriting on the wall?",evidential_2,7,0.000280,-8.182497,Belshazzar,1
+Who was the first person after Scott to reach the South Pole overland?,evidential_2,8,0.000231,-8.373956,Edward Bransfield,0
+Who was the next British Prime Minister after Arthur Balfour?,evidential_2,9,0.000208,-8.476707,Henry Campbell-Bannerman,1
+In which sport could the Pacers take on the Pistons?,evidential_2,10,0.000164,-8.717644,Basketball,1
+Kim Carnes' nine weeks at No 1 with Bette Davis Eyes was interrupted for one week by which song?,evidential_2,11,0.000161,-8.732251,"""Invitation to Dance""",0
+Which musician founded the Red Hot Peppers?,evidential_2,12,0.000161,-8.733739,Louis Armstrong,0
+River Phoenix died during the making of which movie?,evidential_2,13,0.000137,-8.898016,The Dark Half,1
+Which country does the airline TAAG come from?,evidential_2,14,0.000126,-8.978916,Angola,1
+What was the profession of Paul Strand (1890 - 1976)?,evidential_2,15,0.000123,-9.004418,Photographer,1
+What is the only novel to top the best-seller lists for two consecutive years?,evidential_2,16,0.000121,-9.019556,To Kill a Mockingbird,1
+Which journalist first told the world about the My Lai massacre?,evidential_2,17,0.000116,-9.061696,Morley Safer,0
+Which was the only eastern bloc country to participate in the 1984 LA Olympics?,evidential_2,18,0.000107,-9.145267,Romania,0
+Who recorded the When Harry Met Sally soundtrack?,evidential_2,19,0.000092,-9.298219,Hans Zimmer,0
+Kagoshima international airport is in which country?,evidential_2,20,0.000092,-9.298686,Japan,1
+Who is the most successful UK solo artist in the USA?,evidential_2,21,0.000087,-9.349265,Elton John,1
+"In the very first Boston Marathon, 15 runners competed. How many finished?",evidential_2,22,0.000086,-9.359832,15,0
+Who was the defending champion when Martina Navratilova first won Wimbledon singles?,evidential_2,23,0.000078,-9.453614,Chris Evert,1
+Which US No 1 single came from Diana Ross's platinum album Diana?,evidential_2,24,0.000074,-9.513545,"""I'm Coming Out""",0
+Who had a 70s No 1 hit with Let's Do It Again?,evidential_2,25,0.000073,-9.519387,Stevie Wonder,0
+Brandon Lee died during the making of which movie?,evidential_2,26,0.000067,-9.608893,The Crow,1
+"What mythological beast has the head of a man, the body of a lion, and the tail and feet of a dragon?",evidential_2,27,0.000064,-9.652864,Sphinx,1
+Which musical featured the song The Street Where You Live?,evidential_2,28,0.000063,-9.667646,My Fair Lady,1
+Where in Canada is the Lion's Gate bridge?,evidential_2,29,0.000063,-9.678667,Vancouver,1
+What is the name of Terence and Shirley Conran's dress designer son?,evidential_2,30,0.000062,-9.695369,Matthew Williamson,0
+Which artist David was born in Bradford UK?,evidential_2,31,0.000059,-9.741722,David Hockney,1
+Who or what was Gentle Ben in the 60s TV series?,evidential_2,32,0.000058,-9.749789,A giant bear.,1
+What was the Paramount Film Company originally called?,evidential_2,33,0.000058,-9.751727,Marcel V Challoner's Film Manufacturing Company,0
+What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?,evidential_2,34,0.000057,-9.765333,Practice!,0
+Which volcano in Tanzania is the highest mountain in Africa?,evidential_2,35,0.000057,-9.780095,Kilimanjaro,1
+What is the Japanese share index called?,evidential_2,36,0.000056,-9.787068,Nikkei,1
+In what year's Olympics were electric timing devices and a public-address system used for the first time?,evidential_2,37,0.000056,-9.793496,1920,0
+Rita Coolidge sang the title song for which Bond film?,evidential_2,38,0.000055,-9.814315,All That Jazz,0
+Who was the youngest brother in the Beach Boys?,evidential_2,39,0.000053,-9.852290,Carl,1
+Who had an 80s No 1 hit with Hold On To The Nights?,evidential_2,40,0.000053,-9.854278,Richard Marx,1
+In what state was playwright Tennessee Williams born?,evidential_2,41,0.000051,-9.892983,Mississippi,1
+How old was Jimi Hendrix when he died?,evidential_2,42,0.000047,-9.961895,27,1
+Which Brit broke the land speed record in 1990 in Thrust 2?,evidential_2,43,0.000046,-9.994122,Richard Noble,1
+In which state was Gene Vincent born?,evidential_2,44,0.000045,-9.999527,Virginia,1
+"""Who was the target of the failed """"Bomb Plot"""" of 1944?""",evidential_2,45,0.000043,-10.053370,Adolf Hitler,1
+"""Complete this Biblical quotation: """"It is easier for a camel to go through the eye of a needle, than...""",evidential_2,46,0.000043,-10.061376,than a rich man into the kingdom of God.,1
+The flag of Libya is a plain rectangle of which color?,evidential_2,47,0.000040,-10.123240,Green,1
+"In Greek mythology, who were Arges, Brontes and Steropes?",evidential_2,48,0.000040,-10.134986,The Cyclopes.,1
+On what date in 1969 did Neil Armstrong first set foot on the Moon?,evidential_2,49,0.000039,-10.160451,July 20th,1
+To the nearest million what is the population of Australia?,evidential_2,50,0.000037,-10.200376,25 million,1
+Which actress was called by the US Senate a 'powerful force of evil' when she left her husband and child in 1948?,evidential_2,51,0.000037,-10.204591,Lana Turner,0
+If I Were A Rich Man Was a big hit from which stage show?,evidential_2,52,0.000034,-10.290598,Fiddler on the Roof,1
+"""According to Rudyard Kipling what were the """"two imposters"""" to meet and treat the same day?""",evidential_2,53,0.000034,-10.299764,Day and Night,0
+Of which African country is Niamey the capital?,evidential_2,54,0.000033,-10.316924,Niger,1
+Which highway was Revisited in a classic 60s album by Bob Dylan?,evidential_2,55,0.000031,-10.370148,Highway 61,1
+What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?,evidential_2,56,0.000030,-10.412501,The Holy Blood and the Holy Grail,0
+What is Osbert Lancaster best known for producing?,evidential_2,57,0.000030,-10.412884,Cartoonist's work,1
+What was President Gerald Ford's middle name?,evidential_2,58,0.000029,-10.452323,Rudolph,1
+What star sign is Jamie Lee Curtis?,evidential_2,59,0.000025,-10.596722,Libra,0
+Which founder of the company Triad was accused by the USA of receiving bribes?,evidential_2,60,0.000024,-10.653194,Pascal Simbikis,0
+Why is the site of a boxing match called a ring when it's square?,evidential_2,61,0.000022,-10.727346,Round,1
+What was the name of Michael Jackson's autobiography written in 1988?,evidential_2,62,0.000021,-10.747701,Moonwalk,1
+Who was the only Englishman to become Pope?,evidential_2,63,0.000021,-10.774208,Adrian IV,1
+What did the Lone Ranger's title Kemo Sabe mean in Apache?,evidential_2,64,0.000020,-10.799427,"""Trusted Friend""",1
+Where was horse racing's Breeder's Cup held in 1987?,evidential_2,65,0.000020,-10.833669,Hollywood Park,1
+Which Lloyd Webber musical premiered in the US on 10th December 1993?,evidential_2,66,0.000019,-10.860338,Sunset Boulevard,1
+"In the Bible, who did the sun and moon stand still before?",evidential_2,67,0.000019,-10.880496,Joshua,1
+Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?,evidential_2,68,0.000017,-10.967152,Robinson Crusoe,0
+Robert Kirkpatrick of California grew the world's biggest what?,evidential_2,69,0.000017,-11.005995,Pumpkin,1
+What is Mel Gibson's middle name?,evidential_2,70,0.000016,-11.049401,Patrick,0
+What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?,evidential_2,71,0.000016,-11.071433,Batman Forever,0
+What was the last US state to reintroduce alcohol after prohibition?,evidential_2,72,0.000015,-11.074685,Utah,0
+Where did the Shinning Path terrorists operate?,evidential_2,73,0.000015,-11.084698,Peru,1
+"To whom did Helen Keller dedicate her autobiography, The Story of My Life?",evidential_2,74,0.000015,-11.099118,Alexander Graham Bell,1
+In which decade did stereo records first go on sale?,evidential_2,75,0.000015,-11.124735,1958,1
+Who was the man behind The Chipmunks?,evidential_2,76,0.000014,-11.183790,Ross Bagdasarian Sr.,1
+What would Kevin Scale have been called if it had adopted the originator's first name?,evidential_2,77,0.000014,-11.188373,Kirkwood,0
+Who was the director of the CIA from 1976-81?,evidential_2,78,0.000014,-11.196198,Stansfield Turner,1
+Who was the last inmate of Spandau jail in Berlin?,evidential_2,79,0.000014,-11.202208,Albert Brasch,0
+What was Eddie Murphy's first movie?,evidential_2,80,0.000013,-11.234144,Raw,0
+Art Garfunkel trained for which profession although he didn't qualify?,evidential_2,81,0.000013,-11.270130,Doctor,0
+Where in England was actor Nigel Hawthorne born?,evidential_2,82,0.000013,-11.288602,Norwich,0
+Which 70s show was based on the British show Till Death Us Do Part?,evidential_2,83,0.000012,-11.318009,All in the Family,1
+"""In which movie did Garbo say, """"I want to be alone"""".""",evidential_2,84,0.000011,-11.404086,Grand Hotel (1932),1
+"In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",evidential_2,85,0.000011,-11.413199,Boggs.,0
+What was Truman Capote's last name before he was adopted by his stepfather?,evidential_2,86,0.000009,-11.576892,Capote,0
+Who was the first US-born winner of golf's British Open?,evidential_2,87,0.000009,-11.639920,Francis Ouimet,0
+Which actress was voted Miss Greenwich Village in 1942?,evidential_2,88,0.000009,-11.651592,Marilyn Monroe,0
+Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?,evidential_2,89,0.000009,-11.675392,Almost Live,0
+"""How many different animal shapes are there in the """"Animal Crackers"""" cookie zoo?""",evidential_2,90,0.000008,-11.740678,14,0
+In which country is the Sky Train Rail bridge?,evidential_2,91,0.000008,-11.741103,Thailand,0
+Bandar Seri Begawan International airport is in which country?,evidential_2,92,0.000008,-11.788976,Brunei,1
+Which drink did The Spice Girls promote?,evidential_2,93,0.000007,-11.922545,Pepsi,1
+In the 80s who wrote the novel Empire of The Sun?,evidential_2,94,0.000006,-11.950724,J.G. Ballard,1
+What comic strip character was named after heavyweight boxing champion James J. Jeffries?,evidential_2,95,0.000006,-11.979865,Joe Yabuco,0
+What claimed the life of singer Kathleen Ferrier?,evidential_2,96,0.000006,-12.019444,Breast cancer,1
+What was Walter Matthau's first movie?,evidential_2,97,0.000006,-12.053591,Battle Cry (1955),0
+Who had a 70s No 1 hit with Kiss You All Over?,evidential_2,98,0.000004,-12.539887,Starship,0
+Otis Barton was a pioneer in exploring where?,evidential_2,99,0.000003,-12.655145,Caves,0
+"In Greek mythology, what were the names of Oedipus's parents?",evidential_2,100,0.000002,-13.101003,Laius and Jocasta,1
